@@ -1,0 +1,12 @@
+.button {
+    color: white;
+    background-color: #cb2e41;
+    position: absolute;
+    bottom: 450px;
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 110px;
+    box-shadow: 5px 10px 15px lightgrey;;
+
+}

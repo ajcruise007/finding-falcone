@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  margin: 0 auto;
+  width: 1400px;
+  background-image: url("https://media.istockphoto.com/vectors/planets-in-space-with-stars-background-in-cartoon-style-solar-system-vector-id1221731288?k=20&m=1221731288&s=170667a&w=0&h=4Jk4X2uacQ5IXUNGpTfX3vRn2hB8J6TDbbvMJMZJB3s=");
+  height: 950px;
 }
 
 .App-logo {
